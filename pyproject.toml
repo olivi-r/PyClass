@@ -1,0 +1,27 @@
+[build-system]
+requires = ["setuptools >= 61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "PyClass"
+authors = [
+    {name = "Olivia Ryan", email = "olivia.r.dev@gmail.com"},
+]
+description = "JVM class file reader"
+readme = "README.md"
+license = {file = "LICENSE"}
+version = "0.1.0"
+requires-python = ">=3.9"
+classifiers = [
+    "Development Status :: 4 - Beta",
+    "License :: OSI Approved :: MIT License",
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3.9",
+    "Programming Language :: Python :: 3.10",
+    "Programming Language :: Python :: 3.11",
+    "Programming Language :: Python :: 3.12",
+]
+
+[project.urls]
+Repository = "https://github.com/olivi-r/PyClass"
+Issues = "https://github.com/olivi-r/PyClass/issues"
