@@ -3,7 +3,7 @@ requires = ["setuptools >= 61.0"]
 build-backend = "setuptools.build_meta"
 
 [project]
-name = "PyClass"
+name = "PyClassJVM"
 authors = [
     {name = "Olivia Ryan", email = "olivia.r.dev@gmail.com"},
 ]
@@ -23,5 +23,5 @@ classifiers = [
 ]
 
 [project.urls]
-Repository = "https://github.com/olivi-r/PyClass"
-Issues = "https://github.com/olivi-r/PyClass/issues"
+Repository = "https://github.com/olivi-r/PyClassJVM"
+Issues = "https://github.com/olivi-r/PyClassJVM/issues"
