@@ -39,7 +39,7 @@ class MethodAccessFlags(enum.Flag):
     ACC_SYNTHETIC = 0x1000
 
 
-class NestedClassAccessFlags(enum.Flag):
+class InnerClassAccessFlags(enum.Flag):
     ACC_PUBLIC = 0x0001
     ACC_PRIVATE = 0x0002
     ACC_PROTECTED = 0x0004
